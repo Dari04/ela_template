@@ -30,7 +30,7 @@
     <p> Kind regards
     </p>
   </div>
-  <img src="https://ela-template.vercel.app/img/effect-bottom.png">
+  <img src="https://ela-template.vercel.app/img/effectCloud/effect-bottom.png">
 </div>
 </template>
 <script>
