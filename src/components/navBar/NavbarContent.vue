@@ -8,7 +8,7 @@
         <b-navbar-item>
           <img
             class="navbarMainLogo animated fadeIn"
-            src="/img/logo.png"
+            src="https://ela-template.vercel.app/img/logo.png"
             alt="Encounter Latin America"
           />
         </b-navbar-item>
