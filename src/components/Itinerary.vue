@@ -6,7 +6,7 @@
         <img src="https://ela-template.vercel.app/img/pin-ela.png">
       </figure>Sorprendente Bolivia</h5>
 
-    <div class="itineraryDays">
+    <div class="itineraryDays is-relative">
       <div class="columns is-desktop itineraryCol">
         <ItineraryDay />
         <ItineraryDay />

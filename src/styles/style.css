@@ -229,6 +229,9 @@ hr.dividerEla:before {
 .textHeroImage .subtitle .icon i::before { font-size: 24px!important;}
 /*Finish HeroImage*/
 /* Start Itinerary Description*/
+.itineraryDays{
+  z-index: 10;
+}
 .itineraryDescription {
   line-height: 1.9em;
   color: #4d4d4d !important;
