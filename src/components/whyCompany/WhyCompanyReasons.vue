@@ -3,7 +3,7 @@
 		<div class="column">
 			<div class="card whyCompany">
 				<div class="card-image">
-						<img alt="DEDICATION & EXPERTISE" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/24-years-500.png">
+						<img alt="DEDICATION & EXPERTISE" src="https://ela-template.vercel.app/img/24-years-500.png">
 				</div>
 				<div class="card-content px-3 pt-4">
 					<div class="content">
@@ -16,7 +16,7 @@
 		<div class="column">
 			<div class="card whyCompany">
 				<div class="card-image">
-						<img alt="8 LATIN AMERICAN COUNTRIES" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/8-Countries.png">
+						<img alt="8 LATIN AMERICAN COUNTRIES" src="https://ela-template.vercel.app/img/8-Countries.png">
 				</div>
 				<div class="card-content px-3 pt-4">
 					<div class="content">
@@ -29,7 +29,7 @@
 		<div class="column">
 			<div class="card whyCompany">
 				<div class="card-image">
-						<img alt="RESPONSIBLE TRAVEL" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/Responsible-Travel.png">
+						<img alt="RESPONSIBLE TRAVEL" src="https://ela-template.vercel.app/img/Responsible-Travel.png">
 				</div>
 				<div class="card-content px-3 pt-4">
 					<div class="content">

@@ -2,7 +2,7 @@
     <b-carousel :autoplay="false" indicator-custom :indicator-inside="false" :overlay="gallery" @click="switchGallery(false)">
         <b-carousel-item v-for="(item, i) in 6" :key="i">
             <a class="image">
-                <img class="effectCloud" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/effect-pricing.png">
+                <img class="effectCloud" src="https://ela-template.vercel.app/img/cloudEffect/effect-pricing.png">
                 <img :src="getImgUrl(i)">
             </a>
         </b-carousel-item>

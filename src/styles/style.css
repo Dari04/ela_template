@@ -440,7 +440,7 @@ hr.dividerEla:before {
   top: 0px;
   content: " ";
   display: block;
-  background-image: url('https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/BO/BO-SRE/effect-top-bottom.png');
+  background-image: url('https://ela-template.vercel.app/img/cloudEffect/effect-top-bottom.png');
   height: 100%;
   background-repeat: no-repeat;
   width: 100%;
@@ -480,7 +480,7 @@ hr.dividerEla:before {
   margin: auto;
   border-radius: 100%;
 }
-.AvatarImg{ background-image: url("https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/user-avatar.png");}
+.AvatarImg{ background-image: url("https://ela-template.vercel.app/img/user-avatar.png");}
 a.questionsMail:hover {
   color:#fda900!important;
 }

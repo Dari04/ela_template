@@ -25,7 +25,7 @@
         </div>
         <div class="column has-text-right">
           <img src="img/logo-white.png" alt="">
-          <img src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/Travelife-Partner-logo.png" alt="">
+          <img src="https://ela-template.vercel.app/img/Travelife-Partner-logo.png" alt="">
         </div>
     </div>
   </div>

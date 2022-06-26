@@ -30,7 +30,7 @@
     <p> Kind regards
     </p>
   </div>
-  <img src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/effect-bottom.png">
+  <img src="https://ela-template.vercel.app/img/effect-bottom.png">
 </div>
 </template>
 <script>

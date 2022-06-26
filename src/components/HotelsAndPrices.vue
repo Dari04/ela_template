@@ -1,6 +1,6 @@
 <template>
 <section class="is-relative">
-  <img class="effectTop" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/effect-top.png">
+  <img class="effectTop" src="https://ela-template.vercel.app/img/cloudEffect/effect-top.png">
   <div class="has-fixed-background" 
     style="background-image:url('https://encounterlatinamerica.com/wp-content/uploads/2022/06/background.png');">
     <div class="container py-5 pxmob-4">
@@ -14,7 +14,7 @@
         </div>
     </div>
   </div>
-  <img class="effectBottom" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/not_found/effect-bottom.png">
+  <img class="effectBottom" src="https://ela-template.vercel.app/img/cloudEffect/effect-bottom.png">
 </section>
 </template>
 

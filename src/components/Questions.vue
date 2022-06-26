@@ -1,6 +1,6 @@
 <template>
  <section class="is-relative">
-  <img class="effectTop" src="https://itp-saas-api-dev.s3.us-east-2.amazonaws.com/tenancy/assets/BO/BO-SRE/effect-top.png">
+  <img class="effectTop" src="https://ela-template.vercel.app/img/cloudEffect/effect-top.png">
   <div class="has-fixed-background pb-6" 
     style="background-image:url('https://encounterlatinamerica.com/wp-content/uploads/2022/06/background.png');">
     <div class="container has-text-centered py-5 pxmob-4">
